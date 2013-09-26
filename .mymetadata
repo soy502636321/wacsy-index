@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wacsy-index"
+  id="myeclipse.1380188513921"
+  context-root="/wacsy-index"
+  j2ee-spec="6.0"
+  archive="wacsy-index.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
